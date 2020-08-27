@@ -259,6 +259,6 @@
     <extension name='xyformsservices' />
     <extension name='xyformsstorefrontcommons' />
     <extension name='xyformsweb' />
-    
+    <extension name='ycommercewebservices' />
   </extensions>
 </hybrisconfig>
