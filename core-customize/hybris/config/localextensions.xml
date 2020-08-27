@@ -259,6 +259,9 @@
     <extension name='xyformsservices' />
     <extension name='xyformsstorefrontcommons' />
     <extension name='xyformsweb' />
+
     <extension name='ycommercewebservices' />
+    <extension name='acceleratorwebservicesaddon' />
+    <extension name='cmsoccaddon' />
   </extensions>
 </hybrisconfig>
