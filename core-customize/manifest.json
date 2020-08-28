@@ -164,7 +164,7 @@
 	"properties":[ 
 	   { 
 		  "key":"lang.packs",
-		  "value":"de,en"
+		  "value":"ja,en,zh,de"
 	   },
 	   { 
 		  "key":"endpoint.hac.platform.init.disabled",
